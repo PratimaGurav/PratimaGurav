@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I’m Pratima Gurav</h1>
 
-- 👀 I’m interested in ...
+- 📘 I have 8+ years of experience with the Hotel / Hospitality industry.
 - 🌱 I’m currently studying, Diploma in Software Development through Code Institute.
 - 🎓 I'm currently learning Python  
 - 📫 If you want to get in touch, contact me on [LinkedIn](http://linkedin.com/in/pratima-g-792b9a62)

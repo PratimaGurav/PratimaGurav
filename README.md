@@ -31,6 +31,11 @@
 ### PP1 - GLOBAL WARNING - Merit
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
+    == A website describing Global Warming which is one of the major challenge currently faced by us==.
+
+[Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
 
 <!---
 PratimaGurav/PratimaGurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,7 +29,7 @@
 <h2 align="center"> Code Institute Portfolio Projects </h2>
 
 ### PP1 - GLOBAL WARNING - Merit
-### HTML/CSS Essentials: Static front-end website
+### HTML/CSS Essentials: Static front-end website.
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
     
@@ -38,7 +38,7 @@
 
 [Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
 
-### PP1 - Quiz-a-mania - Pass
+### PP2 - Quiz-a-mania - Pass
 ### HTML/CSS/Javascript Essentials: Interactive front-end website.
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsivedesign.jpg"/>
@@ -47,9 +47,14 @@
 
 [Click here to view the repository.](https://github.com/PratimaGurav/quiz-a-mania)
 
+### PP3 - Hangman-CoC (Country or City) - Pass
+### Python Essentials: A command-line application.
 
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive.jpg"/>
 
+[Click here to view the live project.](https://hangman-coc.herokuapp.com/)
 
+[Click here to view the repository.](https://github.com/PratimaGurav/hangman-coc)
 <!---
 PratimaGurav/PratimaGurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

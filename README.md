@@ -29,13 +29,26 @@
 <h2 align="center"> Code Institute Portfolio Projects </h2>
 
 ### PP1 - GLOBAL WARNING - Merit
+### HTML/CSS Essentials: Static front-end website
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
-    **A website describing Global Warming which is one of the major challenge currently faced by us.**
+    
 
 [Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
 
 [Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
+
+### PP1 - Quiz-a-mania - Pass
+### HTML/CSS/Javascript Essentials: Interactive front-end website.
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsivedesign.jpg"/>
+    
+[Click here to view the live project.](https://pratimagurav.github.io/quiz-a-mania/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/quiz-a-mania)
+
+
+
 
 <!---
 PratimaGurav/PratimaGurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

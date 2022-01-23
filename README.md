@@ -25,6 +25,13 @@
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
+
+<h2 align="center"> Code Institute Portfolio Projects </h2>
+
+### PP1 - GLOBAL WARNING - Merit
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
+
 <!---
 PratimaGurav/PratimaGurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

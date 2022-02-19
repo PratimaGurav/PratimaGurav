@@ -2,7 +2,7 @@
 
 - 📘 I have 8+ years of experience with the Hotel / Hospitality industry.
 - 🌱 I’m currently studying, Diploma in Software Development through Code Institute.
-- 🎓 I'm currently learning **PostgresSQL.**
+- 🎓 I'm currently learning **Python Testing.**
 - 📘 I'm also learning **Microsoft Azure Fundamentals** in my spare time⏰
 - 📫 If you want to get in touch, contact me on [LinkedIn](http://linkedin.com/in/pratima-g-792b9a62)
 

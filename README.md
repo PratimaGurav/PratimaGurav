@@ -95,7 +95,7 @@
 ### Created for the Code Institute's February 2022 (Second Prize)
 ### Love is in the air.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/valentime-responsive.jpg"/>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/valentime-responsive.jpeg"/>
     
 [Click here to view the live project.](https://tindyc.github.io/valentime/)
 

@@ -33,7 +33,8 @@
 ### PP5 - Cellar'89
 ### E-commerce Application.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/cellar-responsive.jpg>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/cellar-responsive.jpeg>
+
 
 [Click here to view the live project.](https://cellar-89.herokuapp.com/)
 
@@ -44,6 +45,7 @@
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/vegan-responsive.jpg>
 
+
 [Click here to view the live project.](https://vegansjournal.herokuapp.com/)
 
 [Click here to view the repository.](https://github.com/PratimaGurav/vegans-journal)
@@ -53,6 +55,7 @@
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive.jpg"/>
 
+
 [Click here to view the live project.](https://hangman-coc.herokuapp.com/)
 
 [Click here to view the repository.](https://github.com/PratimaGurav/hangman-coc)
@@ -61,6 +64,7 @@
 ### HTML/CSS/Javascript Essentials: Interactive front-end website.
 
 <img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsivedesign.jpg"/>
+
     
 [Click here to view the live project.](https://pratimagurav.github.io/quiz-a-mania/)
 

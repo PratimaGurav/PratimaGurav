@@ -33,7 +33,7 @@
 ### PP5 - Cellar'89
 ### E-commerce Application.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/cellar-responsive.jpeg>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/cellar-responsive.jpeg">
 
 
 [Click here to view the live project.](https://cellar-89.herokuapp.com/)
@@ -43,7 +43,7 @@
 ### PP4 - Vegan's Journal Blog
 ### Full-Stack Toolkit site.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/vegan-responsive.jpg>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/vegan-responsive.jpg">
 
 
 [Click here to view the live project.](https://vegansjournal.herokuapp.com/)

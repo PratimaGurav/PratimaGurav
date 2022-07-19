@@ -25,28 +25,28 @@
 ![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+![Amazon AWS](https://aws.amazon.com/)
 
 
 <h2 align="center"> Code Institute Portfolio Projects </h2>
 
-### PP1 - GLOBAL WARNING
-### HTML/CSS Essentials: Static front-end website.
+### PP5 - Cellar'89
+### E-commerce Application.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
-    
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/cellar-responsive.jpg>
 
-[Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
+[Click here to view the live project.](https://cellar-89.herokuapp.com/)
 
-[Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
+[Click here to view the repository.](https://github.com/PratimaGurav/cellar-89)
 
-### PP2 - Quiz-a-mania
-### HTML/CSS/Javascript Essentials: Interactive front-end website.
+### PP4 - Vegan's Journal Blog
+### Full-Stack Toolkit site.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsivedesign.jpg"/>
-    
-[Click here to view the live project.](https://pratimagurav.github.io/quiz-a-mania/)
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/vegan-responsive.jpg>
 
-[Click here to view the repository.](https://github.com/PratimaGurav/quiz-a-mania)
+[Click here to view the live project.](https://vegansjournal.herokuapp.com/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/vegans-journal)
 
 ### PP3 - Hangman-CoC (Country or City)
 ### Python Essentials: A command-line application.
@@ -57,14 +57,45 @@
 
 [Click here to view the repository.](https://github.com/PratimaGurav/hangman-coc)
 
-### PP4 - Vegan's Journal Blog
-### Full-Stack Toolkit site.
+### PP2 - Quiz-a-mania
+### HTML/CSS/Javascript Essentials: Interactive front-end website.
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/vegan-responsive.jpg>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsivedesign.jpg"/>
+    
+[Click here to view the live project.](https://pratimagurav.github.io/quiz-a-mania/)
 
-[Click here to view the live project.](https://vegansjournal.herokuapp.com/)
+[Click here to view the repository.](https://github.com/PratimaGurav/quiz-a-mania)
 
-[Click here to view the repository.](https://github.com/PratimaGurav/vegans-journal)
+### PP1 - GLOBAL WARNING
+### HTML/CSS Essentials: Static front-end website.
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/responsive-screenshot.png"/>
+    
+[Click here to view the live project.](https://pratimagurav.github.io/global-warning/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/global-warning)
+
+
+<h2 align="center"> Hackathon </h2>
+
+### Created for the Code Institute's May 2022 (First Prize)
+### Getting Connected.
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/connectedsy-responsive.jpg"/>
+    
+[Click here to view the live project.](https://connectedsy.herokuapp.com/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/Team4-May-Hackathon)
+
+
+### Created for the Code Institute's February 2022 (Second Prize)
+### Love is in the air.
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/images/valentime-responsive.jpg"/>
+    
+[Click here to view the live project.](https://tindyc.github.io/valentime/)
+
+[Click here to view the repository.](https://github.com/PratimaGurav/valentime)
 
 <!---
 PratimaGurav/PratimaGurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
